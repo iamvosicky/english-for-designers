@@ -1,4 +1,4 @@
-# Investing money in young people
+# Investing money when you are young
 
 **What problem did the project solve?**
 

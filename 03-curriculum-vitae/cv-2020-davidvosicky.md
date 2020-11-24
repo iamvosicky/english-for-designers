@@ -7,7 +7,7 @@ Designer with 3+ years of proven end-to-end experience delivering enjoyable we
 ###### Basic information
 - E-mail: **d.vosicky@icloud.com** <br>
 - Social networks: **@iamvosicky** <br>
-
+<br>
 ###### Experience
 - **Designer** <br>
   07/2018 – now <br>
@@ -26,7 +26,7 @@ Responsible for preparation of new prototypes, UI design for bank and user rease
   Designing user experience and user interface a lots of projects for sport clubs in Europe.<br><br>
 - **Freelance Designer** <br>
   for Škoda Auto, Prague Airport, Livesport, EXPANDO, Slavia Prague,…
-  
+<br>
 ###### Education
 - **Graphic and medial design** <br>
   2017 – now <br>
@@ -35,9 +35,9 @@ Responsible for preparation of new prototypes, UI design for bank and user rease
   2013 – 2017 <br>
   Technical College Pelhřimov<br>
   Final school exam involved a project in Java, SQL and HTML + CSS with graphics.<br>
-
+<br>
 ###### Skills  
 I approach each project individually and I always try to find a meaningful and creative solution that adorns the functionality based on user testing. In addition, we strive to help clients find their strength and uniqueness.
-
+<br>
 ###### Language  
 Czech, English, German

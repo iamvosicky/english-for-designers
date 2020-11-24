@@ -2,7 +2,7 @@
 Designer |
 [View CV (PDF)](cv-2020-davidvosicky.pdf)<br>
 
-Designer with 3+ years of proven end-to-end experience delivering enjoyable web and mobile products. Clear understanding of technologies allows seamless collaboration with developers, while strong communication skills ensure transparence with stakeholders.
+Designer with 3+ years of proven end-to-end experience delivering enjoyable web and mobile products. Clear understanding of technologies allows seamless collaboration with developers, while strong communication skills ensure transparence with stakeholders.
 
 ###### Basic information
 - E-mail: **d.vosicky@icloud.com** <br>
@@ -15,15 +15,15 @@ Designer with 3+ years of proven end-to-end experience delivering enjoyable 
   - *Project: Principal engineering* <br>
   Development of new version of internal system for project portfolio management which is used for registration of projects and their key attributes, management of employess and external collaborates and for resource management including timesheets and invoices.<br>
 Responsible for UX desing and UI within agile SCRUM team (8 people). Preparation of wireframes, user reasearch, and graphic design for front-end of the application.<br>
-<u>Used technology:</u> HTML/CSS, InVision, Sketch, Miro, Jira, Confluence<br><br>
+<u>Used technology:</u> HTML/CSS, InVision, Sketch, Miro, Jira, Confluence<br>
   - *Project: MONETA Money Bank* <br>
  Creating prototypes for one of biggest bank of Czech republic. Prototypes are used for the future direction UI design.<br> 
-Responsible for preparation of new prototypes, UI design for bank and user reasearch.<br>
+Responsible for preparation of new prototypes, UI design for bank and user reasearch.<br>
 <u>Used technology:</u> InVision, Sketch, Miro, Jira, Confluence<br><br>
 - **UX/UI designer** <br>
   02/2018 – now <br>
   eSports media<br>
-  Designing user experience and user interface a lots of projects for sport clubs in Europe.<br><br>
+  Designing user experience and user interface a lots of projects for sport clubs in Europe.<br><br>
 - **Freelance Designer** <br>
   for Škoda Auto, Prague Airport, Livesport, EXPANDO, Slavia Prague,…
   
@@ -37,7 +37,7 @@ Responsible for preparation of new prototypes, UI design for bank and user rea
   Final school exam involved a project in Java, SQL and HTML + CSS with graphics.<br>
 
 ###### Skills  
-I approach each project individually and I always try to find a meaningful and creative solution that adorns the functionality based on user testing. In addition, we strive to help clients find their strength and uniqueness.
+I approach each project individually and I always try to find a meaningful and creative solution that adorns the functionality based on user testing. In addition, we strive to help clients find their strength and uniqueness.
 
 ###### Language  
 Czech, English, German

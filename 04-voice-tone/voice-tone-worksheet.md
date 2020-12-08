@@ -1,5 +1,5 @@
 ## Writing style
-I would like to communicate clear sentences that would respectfully convey the information and be able to motivate cooperation.
+I would like to communicate clear sentences that would convey the information and be able to motivate cooperation.
 
 ## Voice
 1. Simple

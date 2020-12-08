@@ -1,6 +1,6 @@
 ## VI
 
-Copying affects each of us every day. Who would not use the + c command and the + v command daily? Or should I say command + foreign and command + own?
+Copying affects each of us every day. Who would not use the command+c and the command+v daily? Or should I say command + foreign and command + own?
 
 I also started copying designs and learning from professionals. As a young man, I stole a lot of work. Although due to my ignorance of programs and clumsiness, it always looked different. Worse. But then I stopped copying what someone had already done. Then I decided to choose only the part of the work I copied. Thanks to the tutorials, I was able to achieve the effect I wanted, and it always revived my work.
 

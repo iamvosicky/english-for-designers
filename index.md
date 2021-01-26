@@ -1,6 +1,7 @@
 # **David Vošický**
 
 - [About](02-intentional-aboutness/about.md)
+
 – [Curriculum Vitae](03-curriculum-vitae/cv-2020-davidvosicky.md)
 - [Curriculum Vitae (PDF version)](03-curriculum-vitae/cv-2020-davidvosicky.pdf)
 

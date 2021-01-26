@@ -13,4 +13,4 @@
 - [Semester Takeways](06-semester-takeaways/semester-takeaways.md)
 
 -----
-[Home](https://github.com/iamvosicky)
+[Home](https://github.com/iamvosicky/english-for-designers)

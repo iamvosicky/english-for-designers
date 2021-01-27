@@ -7,3 +7,6 @@ I also started copying designs and learning from professionals. As a young man, 
 I started designing websites and mobile applications a few years ago. I thought about how best to prepare a grid, how to design component sizes, paddings, font sizes, and so on. I thought about it for a long time and I was never completely excited about it after coding. One day, when I was creating one website design, I thought of looking at a free template. I downloaded it and copied all component sizes. Thanks to that, the website reached the ideal size and I was glad that it looks according to my ideas.
 
 Today I try to approach other works as inspiration. For example, I like to watch Behance, where I see who created it. I like case studies because I always know with what intent who used any element on the page, the logic,…
+
+### Examples
+https://www.behance.net/gallery/100199075/Prezi-Design-System?tracking_source=search_projects_recommended%7Cdesign%20system

@@ -5,8 +5,8 @@ Designer |
 Designer with 3+ years of proven end-to-end experience delivering enjoyable web and mobile products. Clear understanding of technologies allows seamless collaboration with developers, while strong communication skills ensure transparence with stakeholders.
 
 ###### Basic information
-- E-mail: **d.vosicky@icloud.com** <br>
-- Social networks: **@iamvosicky** <br>
+E-mail: `d.vosicky@icloud.com` <br>
+Social networks: `@iamvosicky`
 <br>
 
 ###### Experience

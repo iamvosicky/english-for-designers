@@ -2,7 +2,7 @@
 Designer |
 [View CV (PDF)](cv-2020-davidvosicky.pdf)<br>
 
-Designer with 3+ years of proven end-to-end experience delivering enjoyable web and mobile products. Clear understanding of technologies allows seamless collaboration with developers, while strong communication skills ensure transparence with stakeholders.
+Designer with 3+ years of proven end-to-end experience delivering engaging web and mobile products. A clear understanding of technologies for seamless collaboration with developers and strong communication skills ensuring transparency with stakeholders.
 
 ###### Basic information
 E-mail: `d.vosicky@icloud.com` <br>

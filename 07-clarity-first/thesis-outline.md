@@ -41,13 +41,13 @@ A lot of young people don't invest money in their future. They think, that it is
 ## Keywords
 
 - **Keyword**
-* Wireframe
-* User experience
-* User interface
-* Design system
-* User flow
-* Analysis 
-* Investing
+1. Wireframe
+2. User experience
+3. User interface
+4. Design system
+5. User flow
+6. Analysis 
+7. Investing
 
 ### References
 

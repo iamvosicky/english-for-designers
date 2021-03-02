@@ -1,8 +1,6 @@
 # Investing mobile app
 
-Mobile aplication with 
-
-A lot of young people don't invest money in their future. They think, that it is not important and They live presence. Their thinking is not long-term but short-term. This project should change their mind and explain why it is good to think in the long-term and investing.
+With this work I want to show the design of a new product - a mobile application that creates a tailor-made investment plan. It will help people of the younger generation to understand investing, explain basic concepts and, show them the way to profitability. Throughout the application, the user can buy or sell individual funds or promotions.
 
 <details>
   <summary>Mind Map</summary>

@@ -5,7 +5,7 @@ A lot of young people don't invest money in their future. They think, that it is
 <details>
   <summary>Mind Map</summary>
 
-  ![Gray box placeholder image, for position only.](./img/thesis-mind-map.png)
+  ![Mind map with of my thesis.](./mind-map.jpg)
 </details>
 
 ### Voice & Tone

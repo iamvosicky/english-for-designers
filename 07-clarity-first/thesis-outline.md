@@ -1,5 +1,7 @@
 # Investing mobile app
 
+Mobile aplication with 
+
 A lot of young people don't invest money in their future. They think, that it is not important and They live presence. Their thinking is not long-term but short-term. This project should change their mind and explain why it is good to think in the long-term and investing.
 
 <details>
@@ -24,23 +26,17 @@ A lot of young people don't invest money in their future. They think, that it is
 
 ## Outline
 
-1. Key point; aim for a single-sentence in 120 characters or less.
-2. Key point; aim for a single-sentence in 120 characters or less.
-3. Key point; aim for a single-sentence in 120 characters or less.
-4. Key point; aim for a single-sentence in 120 characters or less.
-5. Key point; aim for a single-sentence in 120 characters or less.
-6. Another key point?
-7. Too long, didn’t read?
+1. New financial product focused on investing
+2. The aim of the work is to create a functional design of an investment mobile application.
+3. I approach the thesis as a real product, which I would like to create myself one day.
+4. A lot of young people don't invest money in their future. This project should change their mind and explain why it is good to think in the long-term and investing.
 
 ### Notes
 
 - …
-- …
-- …
 
 ## Keywords
 
-- **Keyword**
 1. Wireframe
 2. User experience
 3. User interface
@@ -53,6 +49,5 @@ A lot of young people don't invest money in their future. They think, that it is
 
 <!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
 
-- [APA Style Reference Examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
-- [Reference](http://)
-- [Reference](http://)
+- [UX](https://core.ac.uk/download/pdf/161417374.pdf)
+- [Research](https://www.diva-portal.org/smash/get/diva2:517062/FULLTEXT02.pdf)

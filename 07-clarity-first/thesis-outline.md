@@ -29,10 +29,6 @@ With this work I want to show the design of a new product - a mobile application
 3. I approach the thesis as a real product, which I would like to create myself one day.
 4. A lot of young people don't invest money in their future. This project should change their mind and explain why it is good to think in the long-term and investing.
 
-### Notes
-
-- …
-
 ## Keywords
 
 1. Wireframe

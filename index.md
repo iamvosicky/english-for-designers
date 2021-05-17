@@ -11,6 +11,9 @@
 - [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 - [2020 Story Presentation](05-presentation-stoytelling/presentation-2020-vosicky.md)
 - [Semester Takeways](06-semester-takeaways/semester-takeaways.md)
+- [Clarity first](#)
+- [Abstract draft](#)
+- [Summary details](#)
 
 -----
 [Home](https://github.com/iamvosicky/english-for-designers)

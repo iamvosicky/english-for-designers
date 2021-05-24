@@ -8,6 +8,11 @@ With this work I want to show the design of a new product - a mobile application
   
  ### Mind map2
  ![Mind map of my thesis](mind-map.jpg)
+ 
+ <details>
+  <summary>Mind Map</summary>
+  <img alt="Mind map of my thesis." src="mind-map.jpg">
+</details>
 
 ### Voice & Tone
 

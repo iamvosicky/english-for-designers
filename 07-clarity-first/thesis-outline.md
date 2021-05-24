@@ -6,6 +6,7 @@ With this work I want to show the design of a new product - a mobile application
   <summary>Mind Map</summary>
 
   ![Mind map with of my thesis.](mind-map.jpg)
+  [Mind map with of my thesis2](mind-map.jpg)
 </details>
 
 ### Voice & Tone

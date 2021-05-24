@@ -5,7 +5,7 @@ With this work I want to show the design of a new product - a mobile application
 ### Mind map
  
  <details>
-  <summary>Mind Map</summary>
+  <summary>Show mind map</summary>
   <img alt="Mind map of my thesis." src="mind-map.jpg">
 </details>
 

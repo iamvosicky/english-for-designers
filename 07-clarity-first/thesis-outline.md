@@ -2,11 +2,10 @@
 
 With this work I want to show the design of a new product - a mobile application that creates a tailor-made investment plan. It will help people of the younger generation to understand investing, explain basic concepts and, show them the way to profitability. Throughout the application, the user can buy or sell individual funds or promotions.
 
-<details>
-  <summary>Mind Map</summary>
+### Mind map
 
-  [Mind map with of my thesis](mind-map.jpg)
-  </details>
+  [Mind map of my thesis](mind-map.jpg)
+ 
 
 ### Voice & Tone
 

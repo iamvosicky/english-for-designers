@@ -5,7 +5,9 @@ With this work I want to show the design of a new product - a mobile application
 ### Mind map
 
   [Mind map of my thesis](mind-map.jpg)
- 
+  
+ ### Mind map2
+ ![Mind map of my thesis](mind-map.jpg)
 
 ### Voice & Tone
 
